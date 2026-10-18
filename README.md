@@ -26,4 +26,20 @@ Java solutions to data structures and algorithms problems, with approaches, time
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
