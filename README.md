@@ -13,6 +13,7 @@ Java solutions to data structures and algorithms problems, with approaches, time
 | ------- |
 | [0001-two-sum](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0001-two-sum) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2325-decode-the-message](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ Java solutions to data structures and algorithms problems, with approaches, time
 | ------- |
 | [0504-base-7](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0504-base-7) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2325-decode-the-message](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
