@@ -20,6 +20,7 @@ Java solutions to data structures and algorithms problems, with approaches, time
 | ------- |
 | [0009-palindrome-number](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0009-palindrome-number) |
 | [0504-base-7](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/0504-base-7) |
+| [2469-convert-the-temperature](https://github.com/tejasmohitkar22/leetcode-solutions-java/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
 | ------- |
